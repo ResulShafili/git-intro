@@ -1,1 +1,1 @@
-Initial main content
+# Git Intro Project
